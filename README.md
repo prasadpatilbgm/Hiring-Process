@@ -10,4 +10,6 @@ Use the below Steps for EDA
 4. Checking for outliers.
 5. Removing outliers.
 
+You can refer to dashboard here: [Excel Dashboard.pdf](https://github.com/prasadpatilbgm/Hiring-Process/files/11176744/Excel.Dashboard.pdf)
+
 You can check the report here: [Hiring Process Analytics.pdf](https://github.com/prasadpatilbgm/Hiring-Process/files/11176735/4.Hiring.Process.Analytics.pdf)
