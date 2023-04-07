@@ -9,4 +9,5 @@ Use the below Steps for EDA
 3. Clubbing columns with multiple categories.
 4. Checking for outliers.
 5. Removing outliers.
-Drawing Data Summary[Excel Dashboard.pdf](https://github.com/prasadpatilbgm/Hiring-Process/files/11176720/Excel.Dashboard.pdf)
+
+You can check the report here: [Hiring Process Analytics.pdf](https://github.com/prasadpatilbgm/Hiring-Process/files/11176735/4.Hiring.Process.Analytics.pdf)
